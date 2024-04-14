@@ -44,8 +44,8 @@ https://docs.aiogram.dev/en/latest/
 
 1. Search for botfather
 2. /newbot
-   - mybot88
-   - mybot88_bot
+   - telebot1992
+   - telebot1992_bot
 
    * Now click on url to access the bot
    * Make sure you collect the access token
@@ -54,7 +54,7 @@ https://docs.aiogram.dev/en/latest/
 ### Add in .env
 
 ```ini
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+OPENAI_API_KEY=xx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
