@@ -1,4 +1,4 @@
 python-dotenv
-aiogram==2.5
+aiogram
 openai==0.28.1
 
